@@ -7,3 +7,5 @@ Hi! I'm Derrick. I love researching tools, solving problems, writing small proje
 🚀 Currently working on / 目前的在做的專案: 
 
 ### Skills
+
+### Socials
