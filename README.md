@@ -25,7 +25,11 @@ Hi! I'm Derrick. I love researching tools, solving problems, writing small proje
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="img/vscode.png" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="img/photoshop.png" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="img/premiere.png" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="" target="_blank" ref="noreferrer"><img src="img/canva.png" width="36" height="36" alt="Canva" />
+</a>
 </p>
+
 
 ### Socials
