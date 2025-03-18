@@ -1,4 +1,4 @@
-# Hi! I'm Derrick Jee 👾
+# Hi! I'm Derrick Jee 🐳
 
 Hi! I'm Derrick. I love researching tools, solving problems, writing small projects, and editing videos. Helping others solve their issues always fills me with positive energy. I enjoy collaborating to tackle challenging problems and welcome all kinds of collaboration opportunities.
 
